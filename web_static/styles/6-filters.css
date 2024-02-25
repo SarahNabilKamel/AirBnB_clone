@@ -1,4 +1,5 @@
 .filters {
+    
     background-color: white;
     height: 70px;
     width: 100%;
@@ -26,6 +27,7 @@
 }
 
 .filters>.locations, .filters>.amenities {
+    padding-top: 13px;
     height: 100%;
     width: 25%;
     padding: 15px, 40px;

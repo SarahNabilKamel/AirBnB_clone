@@ -4,7 +4,7 @@
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    position: relative;
+    /* position: relative; */
 }
 .filters button {
     font-size: 18px;
@@ -16,8 +16,10 @@
     border-radius: 4px;
     align-content: center;
     right: 30px;
-    top: 15%;
-    position: absolute;
+    margin-left: 77%;
+    margin-top: 1.1%;
+    /* top: 15%; */
+    /* position: absolute; */
 }
 .filters button:hover {
     opacity: 90%;
